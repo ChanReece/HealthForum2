@@ -14,6 +14,12 @@
     "categories": {
       "auth": {
         "healthforum266dce7f5": {}
+      },
+      "api": {
+        "healthforum2": {}
+      },
+      "storage": {
+        "imagestorage": {}
       }
     }
   }
